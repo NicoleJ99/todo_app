@@ -9,14 +9,14 @@ ul { background-color: white;
 h1 { background-color: pink ;
      color: black;
 font-family: 'Sanchez', serif;
-    
+  font-size: 30px;   
 }
 .pomodoro-estimate { 
     font-weight: bold;
 color: #f3f709;
 background: #db0272;
 border-radius: 50px;
-font-size: 18px;
+font-size: 28px;
 padding: 5px 10px 5px 10px;
 } 
 #add-new-todo-button {
@@ -31,6 +31,8 @@ padding: 5px 10px 5px 10px;
 }
 li { 
     padding: 5px;
+font-size: 26px;
+    
 }
 li:hover {
     background-color: pink;
